@@ -1,0 +1,10 @@
+Update buy buttons to redirect to checkout and add a glowing pulse effect
+
+Modify CtaButton and OrderForm components to redirect all button clicks to a specified checkout URL and apply a new `animate-glow-pulse` CSS animation.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 891bd6f3-4f36-42f3-81f6-0fe1a8e235dc
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: e93b0a17-b942-4def-bb08-de6b600f9957
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/62d26acc-db76-4285-b022-e86616907bb0/891bd6f3-4f36-42f3-81f6-0fe1a8e235dc/q4vdVDF
+Replit-Helium-Checkpoint-Created: true
